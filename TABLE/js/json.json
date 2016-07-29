@@ -1,0 +1,37 @@
+[
+  {
+    "full_name": "Doris Nichols",
+    "id": 0,
+    "department": "ISOTRACK"
+  },
+  {
+    "full_name": "Miriam Turner",
+    "id": 1,
+    "department": "OVOLO"
+  },
+  {
+    "full_name": "Rose Fernandez",
+    "id": 2,
+    "department": "MEGALL"
+  },
+  {
+    "full_name": "Kerry Sherman",
+    "id": 3,
+    "department": "VERAQ"
+  },
+  {
+    "full_name": "Heidi Blackwell",
+    "id": 4,
+    "department": "POWERNET"
+  },
+  {
+    "full_name": "Robbie Mays",
+    "id": 5,
+    "department": "QUINEX"
+  },
+  {
+    "full_name": "Effie Cole",
+    "id": 6,
+    "department": "BUZZMAKER"
+  }
+]

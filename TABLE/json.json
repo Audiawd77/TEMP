@@ -1,0 +1,17 @@
+[
+  {
+    "department": "GIS",
+    "id": "abeletskiy",
+    "full_name": "Aleksey Beletskiy"
+  },
+  {
+    "department": "Development",
+    "id": "kgorlachov",
+    "full_name": "Konstantin Gorlachov"
+  },
+  {
+    "department": "GIS",
+    "id": "rsokolenko",
+    "full_name": "Roman Sokolenko"
+  }
+]
